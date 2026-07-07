@@ -24,7 +24,7 @@ export const SITE_META = {
     name: "Amit Packaging Industries",
     alternateName: "अमित पैकेजिंग इंडस्ट्रीज",
     image: "https://amitpackaging.in/og-image.jpg",
-    telephone: "+918056265802",
+    telephone: "+91xxxxxxxxxx",
     address: {
       "@type": "PostalAddress",
       streetAddress: "F-24 (A), Chambal Industrial Area, Kota Industrial Area",
@@ -134,7 +134,7 @@ export const CONTACT = {
   label: "CONTACT",
   headline: "Let's build your\nnext packaging\nsolution.",
   address: "F-24 (A), Chambal Industrial Area\nKota Industrial Area, Kota\nRajasthan 324003",
-  phone: "080562 65802",
+  phone: "+91xxxxxxxxxx",
   hours: "Monday – Saturday: 8:00 AM – 6:00 PM",
   cta: "Call Now",
 };

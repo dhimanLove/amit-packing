@@ -64,7 +64,7 @@ export function Contact() {
                 Direct Line
               </span>
               <a
-                href="tel:+918056265802"
+                href="tel:+91xxxxxxxxxx"
                 className="group flex items-center gap-6 w-fit"
               >
                 <div className="flex items-center justify-center w-16 h-16 rounded-full border border-white/20 text-white transition-all duration-500 group-hover:bg-white group-hover:text-black group-hover:border-white group-active:scale-95">

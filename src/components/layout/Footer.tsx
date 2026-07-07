@@ -72,7 +72,7 @@ export function Footer() {
             {/* Stark B&W CTA Button */}
             <motion.div variants={itemVariants}>
               <a
-                href="tel:+918056265802"
+                href="tel:+91xxxxxxxxxx"
                 className="group relative inline-flex items-center gap-4 px-8 py-4 border border-white text-white text-sm font-medium tracking-wide uppercase rounded-full cursor-pointer transition-all duration-500 hover:bg-white hover:text-black active:scale-95"
               >
                 <div className="flex items-center justify-center w-8 h-8 rounded-full bg-white/10 group-hover:bg-black/10 transition-colors">
